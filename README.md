@@ -5,7 +5,8 @@ For demonstration: </br>
 a) train and deploying model first time safely </br>
 b) retrain automatically periodically on new data and redeploy automatically with propeer checks  (simulate retrain afterr 5 min with portion of data set) </br>
 c) drift and skew detection online </br>
-
+</br>
+Basic demo: https://colab.research.google.com/drive/1bVSD8kzL6DCE958R0rRTQW7VJeseCrN4#scrollTo=LZ2Lz6PxWmQu </br>
 
 </br>
 </br>
