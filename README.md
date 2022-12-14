@@ -8,7 +8,7 @@ c) drift and skew detection online </br>
 </br>
 Basic demo: https://youtu.be/skvLKqEiGvg </br>
 </br>
-Full demo:
+Full demo: https://youtu.be/wymvzOvcHvA </br>
 </br>
 </br>
 Driver folder for all colab files: https://drive.google.com/drive/folders/1t31qgJq99EUixGM-93BiyjsUzFvlFBmx </br>
