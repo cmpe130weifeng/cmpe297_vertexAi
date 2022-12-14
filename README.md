@@ -1,10 +1,10 @@
 # cmpe297_vertexAi
 Do one end2end toy example full ml ops maturity level 4 pipeline end2end and show case all the details with demo presentation/video showcasing the deployment of model, auto deployment of the next trained model with prper monitoring of drift as well as skew as well verification/validation step.
 </br>
-For demonstration: </br>
-a) train and deploying model first time safely </br>
-b) retrain automatically periodically on new data and redeploy automatically with propeer checks  (simulate retrain afterr 5 min with portion of data set) </br>
-c) drift and skew detection online </br>
+
+</br>
+I use Vertex Ai as the platform for this exercise. Vertex AI Pipeline is a product to run pipeline serverless. We use the pipeline toolkit, Kubeflow. Kubeflow is a machine learning toolkit. We build components(a component = a specific task; in the basic sample i provided, component just a function/method; but in the full demo, a component can be a whole meachine learning proecess, it can be a data preprocessing, a modeling, a training process, or others). We put all components into pipeline, and then run our pipeline using compiler. After you ran, you would get a output file (Json file). That Json file is like the "zip" file of our pipeline, it contains our components' "soul". 
+</br>
 </br>
 Basic demo: https://youtu.be/skvLKqEiGvg </br>
 </br>
