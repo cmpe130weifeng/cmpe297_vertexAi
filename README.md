@@ -12,7 +12,7 @@ c) drift and skew detection online </br>
 </br>
 Reference: </br>
 [1] https://codelabs.developers.google.com/vertex-pipelines-intro#3 </br>
-[2] https://github.com/microsoft/MLOpsLinks to an external site. </br>
+[2] [https://github.com/microsoft/MLOpsLinks to an external site.](https://github.com/davew-msft/MLOps-E2E) </br>
 [3] https://github.com/solliancenet/Azure-Machine-Learning-Dev-Guide/blob/master/devops-for-ai/e2e-pipeline-code-sample.md </br>
 [4] https://github.com/davew-msft/MLOps-E2ELinks to an external site. </br>
 [5] https://ml-devops-tutorial.readthedocs.io/en/latest/endtoend.html </br>
