@@ -13,10 +13,10 @@ c) drift and skew detection online </br>
 Reference: </br>
 [1] https://codelabs.developers.google.com/vertex-pipelines-intro#3 </br>
 [2] https://github.com/microsoft/MLOpsLinks to an external site. </br>
-https://github.com/solliancenet/Azure-Machine-Learning-Dev-Guide/blob/master/devops-for-ai/e2e-pipeline-code-sample.mdLinks to an external site.
-[3] https://github.com/davew-msft/MLOps-E2ELinks to an external site. </br>
-[4] https://ml-devops-tutorial.readthedocs.io/en/latest/endtoend.html </br>
-[5] https://github.com/GoogleCloudPlatform/mlops-with-vertex-aiLinks to an external site. </br>
-[6] https://cloud.google.com/blog/topics/developers-practitioners/mlops-system-automl-and-pipeline-vertex-ai </br>
+[3] https://github.com/solliancenet/Azure-Machine-Learning-Dev-Guide/blob/master/devops-for-ai/e2e-pipeline-code-sample.md </br>
+[4] https://github.com/davew-msft/MLOps-E2ELinks to an external site. </br>
+[5] https://ml-devops-tutorial.readthedocs.io/en/latest/endtoend.html </br>
+[6] https://github.com/GoogleCloudPlatform/mlops-with-vertex-aiLinks to an external site. </br>
+[7] https://cloud.google.com/blog/topics/developers-practitioners/mlops-system-automl-and-pipeline-vertex-ai </br>
 
 
