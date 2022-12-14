@@ -7,8 +7,11 @@ b) retrain automatically periodically on new data and redeploy automatically wit
 c) drift and skew detection online </br>
 </br>
 Basic demo: https://youtu.be/skvLKqEiGvg </br>
-Colab of basic demo: https://colab.research.google.com/drive/1bVSD8kzL6DCE958R0rRTQW7VJeseCrN4#scrollTo=LZ2Lz6PxWmQu </br>
-
+</br>
+Full demo:
+</br>
+</br>
+Driver folder for all colab files: https://drive.google.com/drive/folders/1t31qgJq99EUixGM-93BiyjsUzFvlFBmx </br>
 </br>
 </br>
 </br>
