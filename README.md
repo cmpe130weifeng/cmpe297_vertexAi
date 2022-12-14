@@ -3,7 +3,7 @@ Do one end2end toy example full ml ops maturity level 4 pipeline end2end and sho
 </br>
 
 </br>
-I use Vertex Ai as the platform for this exercise. Vertex AI Pipeline is a product to run pipeline serverless. We use the pipeline toolkit, Kubeflow. Kubeflow is a machine learning toolkit. We build components(a component = a specific task; in the basic sample i provided, component just a function/method; but in the full demo, a component can be a whole meachine learning proecess, it can be a data preprocessing, a modeling, a training process, or others). We put all components into pipeline, and then run our pipeline using compiler. After you ran, you would get a output file (Json file). That Json file is like the "zip" file of our pipeline, it contains our components' "soul". 
+I use Vertex Ai as the platform for this exercise. Vertex AI Pipeline is a product to run pipeline serverless. We use the pipeline toolkit, Kubeflow. Kubeflow is a machine learning toolkit. We build components(a component = a specific task; in the basic sample i provided, component just a function/method; but in the full demo, a component can be a whole meachine learning proecess, it can be a data preprocessing, a modeling, a training process, or others). We put all components into pipeline, and then run our pipeline using compiler. After you ran, you would get a output file (Json file). The Json file is like the "zip" file of our pipeline, it contains our components' "soul". We use the Json file as pipeline for Vertex Ai, it automatically does everything for endtoend. Pipeline is like a blackbox, you has no idea what it does inside, but it does everthing for you. You only need to take care of is your inputs and outputs.
 </br>
 </br>
 Basic demo: https://youtu.be/skvLKqEiGvg </br>
